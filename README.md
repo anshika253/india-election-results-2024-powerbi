@@ -1,10 +1,10 @@
-# 🇮🇳 India General Election 2024 - Power BI Dashboard
+India General Election 2024 - Power BI Dashboard
 
-📊 This project is a complete Power BI analysis of the **India General Election 2024**, covering all 543 constituencies.
+This project is a complete Power BI analysis of the **India General Election 2024**, covering all 543 constituencies.
 
 ---
 
-## 🔍 Project Overview
+Project Overview
 
 This interactive dashboard visualizes:
 - National seat distribution by alliance (NDA, I.N.D.I.A., Others)
@@ -15,7 +15,7 @@ This interactive dashboard visualizes:
 
 ---
 
-## 📁 Files Included
+Files Included
 
 | File | Description |
 |------|-------------|
@@ -27,7 +27,7 @@ This interactive dashboard visualizes:
 
 ---
 
-## 🛠 Tools Used
+Tools Used
 
 - Power BI Desktop
 - DAX (for KPIs, filters, vote %)
@@ -37,7 +37,7 @@ This interactive dashboard visualizes:
 
 ---
 
-## 📌 Key Insights
+Key Insights
 
 - NDA won **54%** of total seats, while I.N.D.I.A. secured **43%**
 - Detailed views for states like Maharashtra, Kerala, and UP
@@ -46,14 +46,13 @@ This interactive dashboard visualizes:
 
 ---
 
-## 🔗 Connect With Me
+Connect With Me
 
-- 💼 [LinkedIn Profile](https://linkedin.com/in/yourname)
-- 📫 Email: yourname@example.com
-- 🌐 Portfolio: (optional if you have one)
+LinkedIn Profile - (https://linkedin.com/in/anshika.)
+Email: anshika07123@gmail.com
 
 ---
 
-## 📎 License
+License
 
 This is a personal learning project using publicly available data from the 2024 Indian Election. Not affiliated with any political organization.
